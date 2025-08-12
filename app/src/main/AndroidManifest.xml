@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CSE226">
         <activity
+            android:name=".unit1.assignment1.CricketerHome"
+            android:exported="true" />
+        <activity
             android:name=".unit1.CustomListView"
             android:exported="true" />
         <activity
